@@ -39,7 +39,7 @@ export default function Games() {
         <div className={styles.container}>
       <main className={styles.main}>
         <div className={styles.gamesHeader}>
-          <h1 className={styles.gamesTitle}>Games</h1>
+          <h1 className={styles.gamesTitle}>👾 Games Retrô</h1>
           <p className={styles.gamesSubtitle}>
             Explore nossa coleção de games e seus recordes!
           </p>
